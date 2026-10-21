@@ -1,0 +1,3008 @@
+{
+  "P0023": {
+    "base_price": 70.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 60.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 64.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 74.0
+      }
+    ],
+    "best_price": 60.99,
+    "best_seller": "StoreB"
+  },
+  "P0024": {
+    "base_price": 15.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 16.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 16.99
+      }
+    ],
+    "best_price": 15.49,
+    "best_seller": "self"
+  },
+  "P0045": {
+    "base_price": 23.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 25.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 22.95
+      }
+    ],
+    "best_price": 22.95,
+    "best_seller": "StoreA"
+  },
+  "P0064": {
+    "base_price": 212.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 204.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 213.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 207.0
+      }
+    ],
+    "best_price": 204.49,
+    "best_seller": "StoreA"
+  },
+  "P0066": {
+    "base_price": 36.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 34.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 41.0
+      }
+    ],
+    "best_price": 34.0,
+    "best_seller": "StoreB"
+  },
+  "P0070": {
+    "base_price": 88.49,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 93.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 88.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 97.0
+      }
+    ],
+    "best_price": 88.49,
+    "best_seller": "self"
+  },
+  "P0075": {
+    "base_price": 96.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 104.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 91.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 105.95
+      }
+    ],
+    "best_price": 91.49,
+    "best_seller": "ShopY"
+  },
+  "P0078": {
+    "base_price": 74.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 73.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 82.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 66.49
+      }
+    ],
+    "best_price": 66.49,
+    "best_seller": "StoreC"
+  },
+  "P0082": {
+    "base_price": 14.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 14.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 15.0
+      }
+    ],
+    "best_price": 14.0,
+    "best_seller": "self"
+  },
+  "P0106": {
+    "base_price": 31.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 30.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 25.95
+      }
+    ],
+    "best_price": 25.95,
+    "best_seller": "StoreC"
+  },
+  "P0113": {
+    "base_price": 179.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 163.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 196.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 202.0
+      }
+    ],
+    "best_price": 163.0,
+    "best_seller": "StoreC"
+  },
+  "P0132": {
+    "base_price": 72.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 63.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 70.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 81.95
+      }
+    ],
+    "best_price": 63.0,
+    "best_seller": "ShopY"
+  },
+  "P0150": {
+    "base_price": 139.95,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 128.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 130.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 119.95
+      }
+    ],
+    "best_price": 119.95,
+    "best_seller": "StoreB"
+  },
+  "P0172": {
+    "base_price": 39.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 42.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 43.0
+      }
+    ],
+    "best_price": 39.95,
+    "best_seller": "self"
+  },
+  "P0181": {
+    "base_price": 27.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 28.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 25.95
+      }
+    ],
+    "best_price": 25.95,
+    "best_seller": "StoreB"
+  },
+  "P0199": {
+    "base_price": 72.49,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 63.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 67.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 66.95
+      }
+    ],
+    "best_price": 63.99,
+    "best_seller": "StoreC"
+  },
+  "P0002": {
+    "base_price": 10.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 11.43
+      },
+      {
+        "competitor": "ShopY",
+        "price": 9.55
+      }
+    ],
+    "best_price": 9.55,
+    "best_seller": "ShopY"
+  },
+  "P0005": {
+    "base_price": 41.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 46.98
+      },
+      {
+        "competitor": "ShopY",
+        "price": 41.11
+      }
+    ],
+    "best_price": 41.11,
+    "best_seller": "ShopY"
+  },
+  "P0007": {
+    "base_price": 87.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 98.5
+      },
+      {
+        "competitor": "ShopY",
+        "price": 86.19
+      }
+    ],
+    "best_price": 86.19,
+    "best_seller": "ShopY"
+  },
+  "P0021": {
+    "base_price": 70.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 77.7
+      },
+      {
+        "competitor": "ShopY",
+        "price": 69.3
+      }
+    ],
+    "best_price": 69.3,
+    "best_seller": "ShopY"
+  },
+  "P0025": {
+    "base_price": 84.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 88.2
+      },
+      {
+        "competitor": "ShopY",
+        "price": 81.48
+      }
+    ],
+    "best_price": 81.48,
+    "best_seller": "ShopY"
+  },
+  "P0034": {
+    "base_price": 68.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 71.71
+      },
+      {
+        "competitor": "ShopY",
+        "price": 62.74
+      }
+    ],
+    "best_price": 62.74,
+    "best_seller": "ShopY"
+  },
+  "P0048": {
+    "base_price": 280.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 300.12
+      },
+      {
+        "competitor": "ShopY",
+        "price": 252.44
+      }
+    ],
+    "best_price": 252.44,
+    "best_seller": "ShopY"
+  },
+  "P0053": {
+    "base_price": 329.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 355.32
+      },
+      {
+        "competitor": "ShopY",
+        "price": 322.42
+      }
+    ],
+    "best_price": 322.42,
+    "best_seller": "ShopY"
+  },
+  "P0079": {
+    "base_price": 75.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 83.25
+      },
+      {
+        "competitor": "ShopY",
+        "price": 66.75
+      }
+    ],
+    "best_price": 66.75,
+    "best_seller": "ShopY"
+  },
+  "P0102": {
+    "base_price": 31.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 34.87
+      },
+      {
+        "competitor": "ShopY",
+        "price": 30.07
+      }
+    ],
+    "best_price": 30.07,
+    "best_seller": "ShopY"
+  },
+  "P0108": {
+    "base_price": 60.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 65.4
+      },
+      {
+        "competitor": "ShopY",
+        "price": 57.0
+      }
+    ],
+    "best_price": 57.0,
+    "best_seller": "ShopY"
+  },
+  "P0118": {
+    "base_price": 337.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 378.5
+      },
+      {
+        "competitor": "ShopY",
+        "price": 297.4
+      }
+    ],
+    "best_price": 297.4,
+    "best_seller": "ShopY"
+  },
+  "P0121": {
+    "base_price": 28.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 30.77
+      },
+      {
+        "competitor": "ShopY",
+        "price": 25.93
+      }
+    ],
+    "best_price": 25.93,
+    "best_seller": "ShopY"
+  },
+  "P0140": {
+    "base_price": 285.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 308.33
+      },
+      {
+        "competitor": "ShopY",
+        "price": 254.09
+      }
+    ],
+    "best_price": 254.09,
+    "best_seller": "ShopY"
+  },
+  "P0149": {
+    "base_price": 151.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 157.04
+      },
+      {
+        "competitor": "ShopY",
+        "price": 140.43
+      }
+    ],
+    "best_price": 140.43,
+    "best_seller": "ShopY"
+  },
+  "P0162": {
+    "base_price": 30.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 33.23
+      },
+      {
+        "competitor": "ShopY",
+        "price": 28.36
+      }
+    ],
+    "best_price": 28.36,
+    "best_seller": "ShopY"
+  },
+  "P0189": {
+    "base_price": 74.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 80.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 74.24
+      }
+    ],
+    "best_price": 74.24,
+    "best_seller": "ShopY"
+  },
+  "P0001": {
+    "base_price": 84.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 92.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 95.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 91.95
+      }
+    ],
+    "best_price": 84.49,
+    "best_seller": "self"
+  },
+  "P0003": {
+    "base_price": 28.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 27.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 29.49
+      }
+    ],
+    "best_price": 27.0,
+    "best_seller": "StoreA"
+  },
+  "P0004": {
+    "base_price": 228.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 220.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 252.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 198.49
+      }
+    ],
+    "best_price": 198.49,
+    "best_seller": "ShopY"
+  },
+  "P0006": {
+    "base_price": 31.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 32.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 32.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 27.99
+      }
+    ],
+    "best_price": 27.99,
+    "best_seller": "StoreB"
+  },
+  "P0008": {
+    "base_price": 15.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 15.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 17.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 15.95
+      }
+    ],
+    "best_price": 15.0,
+    "best_seller": "self"
+  },
+  "P0009": {
+    "base_price": 65.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 64.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 74.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 75.95
+      }
+    ],
+    "best_price": 64.99,
+    "best_seller": "MarketX"
+  },
+  "P0010": {
+    "base_price": 49.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 45.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 51.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 47.0
+      }
+    ],
+    "best_price": 45.0,
+    "best_seller": "StoreB"
+  },
+  "P0011": {
+    "base_price": 50.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 47.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 55.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 57.0
+      }
+    ],
+    "best_price": 47.95,
+    "best_seller": "ShopY"
+  },
+  "P0012": {
+    "base_price": 38.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 38.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 40.95
+      }
+    ],
+    "best_price": 38.0,
+    "best_seller": "StoreB"
+  },
+  "P0013": {
+    "base_price": 234.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 220.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 205.95
+      }
+    ],
+    "best_price": 205.95,
+    "best_seller": "StoreC"
+  },
+  "P0015": {
+    "base_price": 135.0,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 146.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 114.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 136.99
+      }
+    ],
+    "best_price": 114.49,
+    "best_seller": "StoreA"
+  },
+  "P0016": {
+    "base_price": 58.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 57.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 58.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 59.0
+      }
+    ],
+    "best_price": 57.49,
+    "best_seller": "ShopY"
+  },
+  "P0017": {
+    "base_price": 4.49,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 3.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 3.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 3.99
+      }
+    ],
+    "best_price": 3.49,
+    "best_seller": "MarketX"
+  },
+  "P0018": {
+    "base_price": 76.49,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 79.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 66.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 70.99
+      }
+    ],
+    "best_price": 66.0,
+    "best_seller": "ShopY"
+  },
+  "P0019": {
+    "base_price": 61.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 62.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 67.95
+      },
+      {
+        "competitor": "MarketX",
+        "price": 68.99
+      }
+    ],
+    "best_price": 61.95,
+    "best_seller": "self"
+  },
+  "P0020": {
+    "base_price": 54.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 55.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 55.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 57.99
+      }
+    ],
+    "best_price": 54.49,
+    "best_seller": "self"
+  },
+  "P0022": {
+    "base_price": 38.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 36.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 35.99
+      }
+    ],
+    "best_price": 35.99,
+    "best_seller": "StoreC"
+  },
+  "P0026": {
+    "base_price": 270.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 246.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 258.49
+      }
+    ],
+    "best_price": 246.99,
+    "best_seller": "StoreC"
+  },
+  "P0027": {
+    "base_price": 160.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 140.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 159.49
+      }
+    ],
+    "best_price": 140.0,
+    "best_seller": "StoreB"
+  },
+  "P0028": {
+    "base_price": 60.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 60.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 64.95
+      }
+    ],
+    "best_price": 60.49,
+    "best_seller": "self"
+  },
+  "P0029": {
+    "base_price": 103.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 100.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 102.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 109.49
+      }
+    ],
+    "best_price": 100.95,
+    "best_seller": "MarketX"
+  },
+  "P0030": {
+    "base_price": 4.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 4.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 3.49
+      }
+    ],
+    "best_price": 3.49,
+    "best_seller": "StoreC"
+  },
+  "P0031": {
+    "base_price": 380.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 331.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 390.99
+      }
+    ],
+    "best_price": 331.99,
+    "best_seller": "ShopY"
+  },
+  "P0032": {
+    "base_price": 363.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 372.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 397.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 315.99
+      }
+    ],
+    "best_price": 315.99,
+    "best_seller": "StoreB"
+  },
+  "P0033": {
+    "base_price": 89.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 87.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 79.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 77.49
+      }
+    ],
+    "best_price": 77.49,
+    "best_seller": "MarketX"
+  },
+  "P0036": {
+    "base_price": 83.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 94.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 91.99
+      }
+    ],
+    "best_price": 83.0,
+    "best_seller": "self"
+  },
+  "P0037": {
+    "base_price": 50.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 45.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 47.49
+      }
+    ],
+    "best_price": 45.99,
+    "best_seller": "StoreB"
+  },
+  "P0038": {
+    "base_price": 12.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 14.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 13.49
+      }
+    ],
+    "best_price": 12.95,
+    "best_seller": "self"
+  },
+  "P0039": {
+    "base_price": 71.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 62.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 80.49
+      }
+    ],
+    "best_price": 62.99,
+    "best_seller": "StoreA"
+  },
+  "P0040": {
+    "base_price": 48.99,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 51.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 47.49
+      }
+    ],
+    "best_price": 47.49,
+    "best_seller": "StoreA"
+  },
+  "P0043": {
+    "base_price": 73.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 75.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 65.95
+      }
+    ],
+    "best_price": 65.95,
+    "best_seller": "StoreA"
+  },
+  "P0044": {
+    "base_price": 24.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 22.95
+      },
+      {
+        "competitor": "MarketX",
+        "price": 21.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 26.49
+      }
+    ],
+    "best_price": 21.99,
+    "best_seller": "MarketX"
+  },
+  "P0046": {
+    "base_price": 18.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 15.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 20.0
+      }
+    ],
+    "best_price": 15.49,
+    "best_seller": "StoreA"
+  },
+  "P0047": {
+    "base_price": 31.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 29.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 29.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 28.0
+      }
+    ],
+    "best_price": 28.0,
+    "best_seller": "ShopY"
+  },
+  "P0049": {
+    "base_price": 49.49,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 47.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 51.99
+      }
+    ],
+    "best_price": 47.99,
+    "best_seller": "MarketX"
+  },
+  "P0050": {
+    "base_price": 33.95,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 31.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 37.49
+      }
+    ],
+    "best_price": 31.0,
+    "best_seller": "StoreC"
+  },
+  "P0051": {
+    "base_price": 172.95,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 155.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 177.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 162.95
+      }
+    ],
+    "best_price": 155.0,
+    "best_seller": "ShopY"
+  },
+  "P0052": {
+    "base_price": 23.95,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 22.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 20.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 20.99
+      }
+    ],
+    "best_price": 20.49,
+    "best_seller": "StoreB"
+  },
+  "P0054": {
+    "base_price": 29.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 30.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 33.95
+      }
+    ],
+    "best_price": 29.95,
+    "best_seller": "self"
+  },
+  "P0055": {
+    "base_price": 18.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 19.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 16.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 21.95
+      }
+    ],
+    "best_price": 16.95,
+    "best_seller": "ShopY"
+  },
+  "P0056": {
+    "base_price": 46.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 47.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 40.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 49.95
+      }
+    ],
+    "best_price": 40.99,
+    "best_seller": "StoreB"
+  },
+  "P0058": {
+    "base_price": 99.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 92.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 87.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 95.99
+      }
+    ],
+    "best_price": 87.95,
+    "best_seller": "StoreC"
+  },
+  "P0059": {
+    "base_price": 80.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 83.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 90.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 71.49
+      }
+    ],
+    "best_price": 71.49,
+    "best_seller": "MarketX"
+  },
+  "P0060": {
+    "base_price": 60.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 52.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 54.49
+      }
+    ],
+    "best_price": 52.49,
+    "best_seller": "StoreC"
+  },
+  "P0061": {
+    "base_price": 177.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 162.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 152.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 199.0
+      }
+    ],
+    "best_price": 152.49,
+    "best_seller": "StoreB"
+  },
+  "P0062": {
+    "base_price": 42.95,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 42.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 48.95
+      }
+    ],
+    "best_price": 42.95,
+    "best_seller": "self"
+  },
+  "P0063": {
+    "base_price": 61.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 57.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 64.49
+      }
+    ],
+    "best_price": 57.0,
+    "best_seller": "StoreA"
+  },
+  "P0065": {
+    "base_price": 22.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 23.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 21.99
+      }
+    ],
+    "best_price": 21.99,
+    "best_seller": "ShopY"
+  },
+  "P0067": {
+    "base_price": 114.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 114.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 116.99
+      }
+    ],
+    "best_price": 114.99,
+    "best_seller": "self"
+  },
+  "P0068": {
+    "base_price": 6.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 6.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 8.0
+      }
+    ],
+    "best_price": 6.95,
+    "best_seller": "StoreC"
+  },
+  "P0071": {
+    "base_price": 27.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 30.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 27.99
+      }
+    ],
+    "best_price": 27.95,
+    "best_seller": "self"
+  },
+  "P0072": {
+    "base_price": 231.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 252.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 204.95
+      },
+      {
+        "competitor": "MarketX",
+        "price": 240.49
+      }
+    ],
+    "best_price": 204.95,
+    "best_seller": "StoreA"
+  },
+  "P0073": {
+    "base_price": 295.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 321.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 266.0
+      }
+    ],
+    "best_price": 266.0,
+    "best_seller": "StoreB"
+  },
+  "P0074": {
+    "base_price": 98.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 88.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 88.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 100.95
+      }
+    ],
+    "best_price": 88.0,
+    "best_seller": "StoreB"
+  },
+  "P0076": {
+    "base_price": 18.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 19.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 19.49
+      }
+    ],
+    "best_price": 18.0,
+    "best_seller": "self"
+  },
+  "P0077": {
+    "base_price": 98.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 101.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 103.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 91.49
+      }
+    ],
+    "best_price": 91.49,
+    "best_seller": "StoreC"
+  },
+  "P0080": {
+    "base_price": 74.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 79.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 66.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 74.95
+      }
+    ],
+    "best_price": 66.99,
+    "best_seller": "StoreB"
+  },
+  "P0081": {
+    "base_price": 321.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 321.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 305.49
+      }
+    ],
+    "best_price": 305.49,
+    "best_seller": "MarketX"
+  },
+  "P0083": {
+    "base_price": 50.0,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 54.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 55.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 50.0
+      }
+    ],
+    "best_price": 50.0,
+    "best_seller": "self"
+  },
+  "P0084": {
+    "base_price": 67.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 66.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 69.0
+      }
+    ],
+    "best_price": 66.99,
+    "best_seller": "StoreB"
+  },
+  "P0085": {
+    "base_price": 51.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 58.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 46.99
+      }
+    ],
+    "best_price": 46.99,
+    "best_seller": "StoreB"
+  },
+  "P0086": {
+    "base_price": 309.0,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 280.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 292.0
+      }
+    ],
+    "best_price": 280.49,
+    "best_seller": "MarketX"
+  },
+  "P0087": {
+    "base_price": 155.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 147.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 140.49
+      }
+    ],
+    "best_price": 140.49,
+    "best_seller": "StoreC"
+  },
+  "P0088": {
+    "base_price": 102.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 101.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 115.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 109.95
+      }
+    ],
+    "best_price": 101.49,
+    "best_seller": "StoreA"
+  },
+  "P0090": {
+    "base_price": 136.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 122.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 118.99
+      }
+    ],
+    "best_price": 118.99,
+    "best_seller": "StoreB"
+  },
+  "P0092": {
+    "base_price": 159.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 138.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 160.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 169.49
+      }
+    ],
+    "best_price": 138.0,
+    "best_seller": "StoreA"
+  },
+  "P0093": {
+    "base_price": 90.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 94.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 83.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 85.95
+      }
+    ],
+    "best_price": 83.99,
+    "best_seller": "ShopY"
+  },
+  "P0094": {
+    "base_price": 69.49,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 72.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 74.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 68.95
+      }
+    ],
+    "best_price": 68.95,
+    "best_seller": "MarketX"
+  },
+  "P0095": {
+    "base_price": 250.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 268.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 269.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 221.95
+      }
+    ],
+    "best_price": 221.95,
+    "best_seller": "StoreB"
+  },
+  "P0097": {
+    "base_price": 122.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 110.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 121.0
+      }
+    ],
+    "best_price": 110.95,
+    "best_seller": "StoreB"
+  },
+  "P0098": {
+    "base_price": 135.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 127.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 137.99
+      }
+    ],
+    "best_price": 127.99,
+    "best_seller": "StoreB"
+  },
+  "P0099": {
+    "base_price": 85.99,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 91.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 89.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 88.0
+      }
+    ],
+    "best_price": 85.99,
+    "best_seller": "self"
+  },
+  "P0100": {
+    "base_price": 77.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 83.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 69.0
+      }
+    ],
+    "best_price": 69.0,
+    "best_seller": "StoreB"
+  },
+  "P0101": {
+    "base_price": 39.0,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 39.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 35.49
+      }
+    ],
+    "best_price": 35.49,
+    "best_seller": "StoreA"
+  },
+  "P0103": {
+    "base_price": 62.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 64.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 54.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 62.99
+      }
+    ],
+    "best_price": 54.0,
+    "best_seller": "StoreC"
+  },
+  "P0104": {
+    "base_price": 39.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 41.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 34.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 41.0
+      }
+    ],
+    "best_price": 34.95,
+    "best_seller": "MarketX"
+  },
+  "P0105": {
+    "base_price": 32.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 29.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 33.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 32.99
+      }
+    ],
+    "best_price": 29.99,
+    "best_seller": "StoreB"
+  },
+  "P0107": {
+    "base_price": 59.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 52.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 53.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 53.49
+      }
+    ],
+    "best_price": 52.99,
+    "best_seller": "StoreC"
+  },
+  "P0109": {
+    "base_price": 43.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 38.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 39.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 42.99
+      }
+    ],
+    "best_price": 38.0,
+    "best_seller": "MarketX"
+  },
+  "P0110": {
+    "base_price": 132.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 136.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 143.95
+      }
+    ],
+    "best_price": 132.0,
+    "best_seller": "self"
+  },
+  "P0111": {
+    "base_price": 48.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 47.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 44.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 52.95
+      }
+    ],
+    "best_price": 44.99,
+    "best_seller": "StoreC"
+  },
+  "P0112": {
+    "base_price": 130.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 122.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 141.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 122.0
+      }
+    ],
+    "best_price": 122.0,
+    "best_seller": "MarketX"
+  },
+  "P0114": {
+    "base_price": 79.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 76.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 81.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 89.95
+      }
+    ],
+    "best_price": 76.0,
+    "best_seller": "StoreB"
+  },
+  "P0115": {
+    "base_price": 66.49,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 65.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 57.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 59.49
+      }
+    ],
+    "best_price": 57.95,
+    "best_seller": "MarketX"
+  },
+  "P0117": {
+    "base_price": 94.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 102.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 88.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 107.0
+      }
+    ],
+    "best_price": 88.0,
+    "best_seller": "StoreA"
+  },
+  "P0119": {
+    "base_price": 58.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 60.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 54.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 56.49
+      }
+    ],
+    "best_price": 54.0,
+    "best_seller": "StoreB"
+  },
+  "P0120": {
+    "base_price": 187.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 184.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 188.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 213.99
+      }
+    ],
+    "best_price": 184.99,
+    "best_seller": "StoreA"
+  },
+  "P0122": {
+    "base_price": 285.95,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 247.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 286.95
+      }
+    ],
+    "best_price": 247.49,
+    "best_seller": "StoreC"
+  },
+  "P0123": {
+    "base_price": 74.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 83.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 76.0
+      }
+    ],
+    "best_price": 74.49,
+    "best_seller": "self"
+  },
+  "P0124": {
+    "base_price": 42.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 36.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 38.49
+      }
+    ],
+    "best_price": 36.95,
+    "best_seller": "ShopY"
+  },
+  "P0126": {
+    "base_price": 52.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 45.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 51.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 54.95
+      }
+    ],
+    "best_price": 45.0,
+    "best_seller": "StoreA"
+  },
+  "P0127": {
+    "base_price": 29.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 26.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 27.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 26.0
+      }
+    ],
+    "best_price": 26.0,
+    "best_seller": "ShopY"
+  },
+  "P0130": {
+    "base_price": 75.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 74.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 68.95
+      },
+      {
+        "competitor": "MarketX",
+        "price": 79.99
+      }
+    ],
+    "best_price": 68.95,
+    "best_seller": "StoreA"
+  },
+  "P0134": {
+    "base_price": 25.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 29.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 28.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 23.99
+      }
+    ],
+    "best_price": 23.99,
+    "best_seller": "ShopY"
+  },
+  "P0135": {
+    "base_price": 315.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 273.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 331.95
+      }
+    ],
+    "best_price": 273.95,
+    "best_seller": "StoreA"
+  },
+  "P0136": {
+    "base_price": 112.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 116.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 99.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 123.0
+      }
+    ],
+    "best_price": 99.49,
+    "best_seller": "StoreB"
+  },
+  "P0137": {
+    "base_price": 76.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 74.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 74.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 67.49
+      }
+    ],
+    "best_price": 67.49,
+    "best_seller": "StoreA"
+  },
+  "P0138": {
+    "base_price": 59.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 52.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 60.95
+      }
+    ],
+    "best_price": 52.49,
+    "best_seller": "ShopY"
+  },
+  "P0139": {
+    "base_price": 68.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 73.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 69.0
+      }
+    ],
+    "best_price": 68.0,
+    "best_seller": "self"
+  },
+  "P0141": {
+    "base_price": 71.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 70.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 73.49
+      }
+    ],
+    "best_price": 70.49,
+    "best_seller": "StoreA"
+  },
+  "P0142": {
+    "base_price": 167.0,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 147.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 150.49
+      }
+    ],
+    "best_price": 147.49,
+    "best_seller": "MarketX"
+  },
+  "P0143": {
+    "base_price": 41.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 43.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 44.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 42.0
+      }
+    ],
+    "best_price": 41.0,
+    "best_seller": "self"
+  },
+  "P0144": {
+    "base_price": 48.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 51.95
+      },
+      {
+        "competitor": "MarketX",
+        "price": 55.99
+      }
+    ],
+    "best_price": 48.99,
+    "best_seller": "self"
+  },
+  "P0145": {
+    "base_price": 300.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 265.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 296.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 267.99
+      }
+    ],
+    "best_price": 265.95,
+    "best_seller": "StoreA"
+  },
+  "P0146": {
+    "base_price": 14.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 15.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 14.49
+      }
+    ],
+    "best_price": 14.49,
+    "best_seller": "ShopY"
+  },
+  "P0147": {
+    "base_price": 192.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 205.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 186.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 204.99
+      }
+    ],
+    "best_price": 186.49,
+    "best_seller": "StoreA"
+  },
+  "P0151": {
+    "base_price": 70.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 67.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 75.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 62.99
+      }
+    ],
+    "best_price": 62.99,
+    "best_seller": "ShopY"
+  },
+  "P0152": {
+    "base_price": 171.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 192.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 194.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 172.0
+      }
+    ],
+    "best_price": 171.99,
+    "best_seller": "self"
+  },
+  "P0153": {
+    "base_price": 187.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 182.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 184.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 209.95
+      }
+    ],
+    "best_price": 182.49,
+    "best_seller": "StoreA"
+  },
+  "P0154": {
+    "base_price": 40.95,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 42.95
+      },
+      {
+        "competitor": "StoreA",
+        "price": 34.95
+      }
+    ],
+    "best_price": 34.95,
+    "best_seller": "StoreA"
+  },
+  "P0155": {
+    "base_price": 43.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 47.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 48.99
+      }
+    ],
+    "best_price": 43.95,
+    "best_seller": "self"
+  },
+  "P0156": {
+    "base_price": 93.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 93.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 81.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 103.99
+      }
+    ],
+    "best_price": 81.95,
+    "best_seller": "ShopY"
+  },
+  "P0157": {
+    "base_price": 35.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 38.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 32.49
+      }
+    ],
+    "best_price": 32.49,
+    "best_seller": "StoreB"
+  },
+  "P0158": {
+    "base_price": 157.95,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 176.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 147.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 143.0
+      }
+    ],
+    "best_price": 143.0,
+    "best_seller": "StoreA"
+  },
+  "P0159": {
+    "base_price": 47.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 42.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 52.49
+      }
+    ],
+    "best_price": 42.99,
+    "best_seller": "StoreA"
+  },
+  "P0160": {
+    "base_price": 304.99,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 276.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 332.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 348.99
+      }
+    ],
+    "best_price": 276.0,
+    "best_seller": "ShopY"
+  },
+  "P0161": {
+    "base_price": 35.95,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 32.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 36.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 40.95
+      }
+    ],
+    "best_price": 32.99,
+    "best_seller": "StoreA"
+  },
+  "P0163": {
+    "base_price": 66.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 59.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 71.95
+      }
+    ],
+    "best_price": 59.49,
+    "best_seller": "StoreC"
+  },
+  "P0165": {
+    "base_price": 35.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 37.0
+      },
+      {
+        "competitor": "StoreA",
+        "price": 35.49
+      }
+    ],
+    "best_price": 35.0,
+    "best_seller": "self"
+  },
+  "P0166": {
+    "base_price": 186.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 170.95
+      },
+      {
+        "competitor": "MarketX",
+        "price": 211.95
+      }
+    ],
+    "best_price": 170.95,
+    "best_seller": "ShopY"
+  },
+  "P0167": {
+    "base_price": 152.49,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 141.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 158.95
+      }
+    ],
+    "best_price": 141.99,
+    "best_seller": "StoreA"
+  },
+  "P0168": {
+    "base_price": 83.49,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 80.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 93.95
+      }
+    ],
+    "best_price": 80.99,
+    "best_seller": "MarketX"
+  },
+  "P0169": {
+    "base_price": 43.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 45.0
+      },
+      {
+        "competitor": "StoreC",
+        "price": 39.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 46.49
+      }
+    ],
+    "best_price": 39.99,
+    "best_seller": "StoreC"
+  },
+  "P0170": {
+    "base_price": 59.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 65.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 65.49
+      }
+    ],
+    "best_price": 59.99,
+    "best_seller": "self"
+  },
+  "P0171": {
+    "base_price": 383.95,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 362.49
+      },
+      {
+        "competitor": "StoreB",
+        "price": 420.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 352.99
+      }
+    ],
+    "best_price": 352.99,
+    "best_seller": "StoreC"
+  },
+  "P0173": {
+    "base_price": 97.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 82.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 83.99
+      },
+      {
+        "competitor": "StoreC",
+        "price": 84.95
+      }
+    ],
+    "best_price": 82.99,
+    "best_seller": "ShopY"
+  },
+  "P0175": {
+    "base_price": 12.99,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 11.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 12.0
+      }
+    ],
+    "best_price": 11.49,
+    "best_seller": "StoreA"
+  },
+  "P0177": {
+    "base_price": 34.0,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 28.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 33.49
+      }
+    ],
+    "best_price": 28.49,
+    "best_seller": "StoreB"
+  },
+  "P0178": {
+    "base_price": 61.0,
+    "offers": [
+      {
+        "competitor": "StoreA",
+        "price": 60.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 59.95
+      },
+      {
+        "competitor": "ShopY",
+        "price": 58.95
+      }
+    ],
+    "best_price": 58.95,
+    "best_seller": "ShopY"
+  },
+  "P0179": {
+    "base_price": 133.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 143.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 148.99
+      }
+    ],
+    "best_price": 133.49,
+    "best_seller": "self"
+  },
+  "P0180": {
+    "base_price": 126.99,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 122.0
+      },
+      {
+        "competitor": "StoreB",
+        "price": 116.99
+      }
+    ],
+    "best_price": 116.99,
+    "best_seller": "StoreB"
+  },
+  "P0183": {
+    "base_price": 188.95,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 184.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 164.99
+      }
+    ],
+    "best_price": 164.99,
+    "best_seller": "ShopY"
+  },
+  "P0185": {
+    "base_price": 76.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 85.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 80.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 86.99
+      }
+    ],
+    "best_price": 76.49,
+    "best_seller": "self"
+  },
+  "P0186": {
+    "base_price": 179.99,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 194.0
+      },
+      {
+        "competitor": "ShopY",
+        "price": 170.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 193.95
+      }
+    ],
+    "best_price": 170.99,
+    "best_seller": "ShopY"
+  },
+  "P0187": {
+    "base_price": 135.0,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 149.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 134.0
+      },
+      {
+        "competitor": "MarketX",
+        "price": 152.95
+      }
+    ],
+    "best_price": 134.0,
+    "best_seller": "StoreB"
+  },
+  "P0188": {
+    "base_price": 35.49,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 32.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 39.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 31.95
+      }
+    ],
+    "best_price": 31.95,
+    "best_seller": "MarketX"
+  },
+  "P0190": {
+    "base_price": 60.0,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 56.99
+      },
+      {
+        "competitor": "MarketX",
+        "price": 69.0
+      }
+    ],
+    "best_price": 56.99,
+    "best_seller": "ShopY"
+  },
+  "P0191": {
+    "base_price": 152.99,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 168.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 154.0
+      }
+    ],
+    "best_price": 152.99,
+    "best_seller": "self"
+  },
+  "P0192": {
+    "base_price": 64.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 58.49
+      },
+      {
+        "competitor": "MarketX",
+        "price": 70.0
+      }
+    ],
+    "best_price": 58.49,
+    "best_seller": "ShopY"
+  },
+  "P0193": {
+    "base_price": 30.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 29.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 31.0
+      }
+    ],
+    "best_price": 29.95,
+    "best_seller": "MarketX"
+  },
+  "P0194": {
+    "base_price": 81.95,
+    "offers": [
+      {
+        "competitor": "StoreC",
+        "price": 83.99
+      },
+      {
+        "competitor": "ShopY",
+        "price": 75.49
+      }
+    ],
+    "best_price": 75.49,
+    "best_seller": "ShopY"
+  },
+  "P0195": {
+    "base_price": 42.49,
+    "offers": [
+      {
+        "competitor": "StoreB",
+        "price": 38.49
+      },
+      {
+        "competitor": "ShopY",
+        "price": 43.99
+      },
+      {
+        "competitor": "StoreA",
+        "price": 48.99
+      }
+    ],
+    "best_price": 38.49,
+    "best_seller": "StoreB"
+  },
+  "P0196": {
+    "base_price": 27.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 30.95
+      },
+      {
+        "competitor": "StoreB",
+        "price": 30.49
+      },
+      {
+        "competitor": "StoreC",
+        "price": 29.99
+      }
+    ],
+    "best_price": 27.99,
+    "best_seller": "self"
+  },
+  "P0198": {
+    "base_price": 20.49,
+    "offers": [
+      {
+        "competitor": "ShopY",
+        "price": 17.49
+      },
+      {
+        "competitor": "StoreA",
+        "price": 18.99
+      },
+      {
+        "competitor": "StoreB",
+        "price": 21.0
+      }
+    ],
+    "best_price": 17.49,
+    "best_seller": "ShopY"
+  },
+  "P0200": {
+    "base_price": 53.99,
+    "offers": [
+      {
+        "competitor": "MarketX",
+        "price": 58.95
+      },
+      {
+        "competitor": "StoreC",
+        "price": 54.0
+      }
+    ],
+    "best_price": 53.99,
+    "best_seller": "self"
+  }
+}

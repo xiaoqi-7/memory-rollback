@@ -1,0 +1,38 @@
+{
+  "Electronics": {
+    "window_days": 30,
+    "restocking_fee": "15% if opened",
+    "condition": "Must include all accessories and original packaging.",
+    "refund_method": "original payment method"
+  },
+  "Footwear": {
+    "window_days": 45,
+    "restocking_fee": "none",
+    "condition": "Unworn, with tags and original box.",
+    "refund_method": "original payment method"
+  },
+  "Apparel": {
+    "window_days": 45,
+    "restocking_fee": "none",
+    "condition": "Unworn, with tags attached.",
+    "refund_method": "original payment method or store credit"
+  },
+  "Home": {
+    "window_days": 30,
+    "restocking_fee": "10%",
+    "condition": "Unused and in resalable condition.",
+    "refund_method": "original payment method"
+  },
+  "Fitness": {
+    "window_days": 14,
+    "restocking_fee": "none",
+    "condition": "Unused for hygiene reasons.",
+    "refund_method": "store credit"
+  },
+  "default": {
+    "window_days": 45,
+    "restocking_fee": "none",
+    "condition": "Unworn, with tags attached.",
+    "refund_method": "original payment method or store credit"
+  }
+}

@@ -1,0 +1,4008 @@
+{
+  "ORD00005": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 66.0
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 133.95
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-10",
+    "total": 265.95
+  },
+  "ORD00012": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 89.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 38.49
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 144.95
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-16",
+    "total": 311.92
+  },
+  "ORD00013": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 226.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 210.49
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-05-30",
+    "total": 663.47
+  },
+  "ORD00015": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 179.49
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 63.49
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 49.95
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-17",
+    "total": 535.91
+  },
+  "ORD00027": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 215.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 90.49
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 123.49
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-02",
+    "total": 519.96
+  },
+  "ORD00031": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 81.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 106.0
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-06-02",
+    "total": 293.95
+  },
+  "ORD00032": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 154.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 146.95
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 217.0
+      }
+    ],
+    "placed_at": "2026-05-17",
+    "estimated_delivery": "2026-05-19",
+    "total": 518.9
+  },
+  "ORD00035": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 65.95
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 141.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 160.49
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-21",
+    "total": 508.44
+  },
+  "ORD00036": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 154.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 160.0
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 185.95
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-25",
+    "total": 500.44
+  },
+  "ORD00038": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 100.95
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-06-03",
+    "total": 100.95
+  },
+  "ORD00039": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 55.95
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 224.0
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 66.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-10",
+    "total": 412.93
+  },
+  "ORD00040": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 107.95
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 78.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 87.99
+      }
+    ],
+    "placed_at": "2026-05-16",
+    "estimated_delivery": "2026-05-23",
+    "total": 362.88
+  },
+  "ORD00041": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 68.49
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 111.0
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 173.95
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-15",
+    "total": 595.88
+  },
+  "ORD00047": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 189.0
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-26",
+    "total": 378.0
+  },
+  "ORD00048": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 189.49
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-10",
+    "total": 378.98
+  },
+  "ORD00051": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 65.0
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-09",
+    "total": 130.0
+  },
+  "ORD00052": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 241.0
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-25",
+    "total": 482.0
+  },
+  "ORD00055": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 58.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 230.49
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 44.95
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-08",
+    "total": 378.88
+  },
+  "ORD00073": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 82.0
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 205.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 123.49
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-07",
+    "total": 534.93
+  },
+  "ORD00077": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 64.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 71.49
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 79.0
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-10",
+    "total": 365.93
+  },
+  "ORD00083": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 24.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 101.99
+      }
+    ],
+    "placed_at": "2026-05-22",
+    "estimated_delivery": "2026-05-25",
+    "total": 126.94
+  },
+  "ORD00090": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 48.99
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 24.99
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 32.0
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-13",
+    "total": 179.96
+  },
+  "ORD00098": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 100.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 46.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-15",
+    "total": 146.98
+  },
+  "ORD00105": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 59.49
+      }
+    ],
+    "placed_at": "2026-05-20",
+    "estimated_delivery": "2026-05-29",
+    "total": 59.49
+  },
+  "ORD00109": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 94.95
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 31.99
+      }
+    ],
+    "placed_at": "2026-05-29",
+    "estimated_delivery": "2026-06-04",
+    "total": 126.94
+  },
+  "ORD00116": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 141.95
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 11.0
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 76.99
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-28",
+    "total": 448.88
+  },
+  "ORD00120": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 171.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 105.49
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 159.95
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-14",
+    "total": 436.44
+  },
+  "ORD00121": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 46.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 124.99
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 210.49
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-02",
+    "total": 429.46
+  },
+  "ORD00127": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 126.0
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 44.0
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 56.0
+      }
+    ],
+    "placed_at": "2026-06-03",
+    "estimated_delivery": "2026-06-10",
+    "total": 282.0
+  },
+  "ORD00141": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 193.95
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 236.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 171.49
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-26",
+    "total": 795.88
+  },
+  "ORD00159": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 108.95
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 190.0
+      }
+    ],
+    "placed_at": "2026-06-03",
+    "estimated_delivery": "2026-06-10",
+    "total": 298.95
+  },
+  "ORD00161": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 136.49
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 143.0
+      }
+    ],
+    "placed_at": "2026-06-09",
+    "estimated_delivery": "2026-06-19",
+    "total": 558.98
+  },
+  "ORD00163": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 86.49
+      }
+    ],
+    "placed_at": "2026-06-03",
+    "estimated_delivery": "2026-06-10",
+    "total": 172.98
+  },
+  "ORD00170": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 118.49
+      }
+    ],
+    "placed_at": "2026-05-17",
+    "estimated_delivery": "2026-05-22",
+    "total": 236.98
+  },
+  "ORD00171": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 77.0
+      }
+    ],
+    "placed_at": "2026-05-22",
+    "estimated_delivery": "2026-05-27",
+    "total": 154.0
+  },
+  "ORD00172": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 51.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 249.0
+      }
+    ],
+    "placed_at": "2026-06-08",
+    "estimated_delivery": "2026-06-10",
+    "total": 549.49
+  },
+  "ORD00175": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 170.0
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 200.95
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 189.0
+      }
+    ],
+    "placed_at": "2026-05-20",
+    "estimated_delivery": "2026-05-22",
+    "total": 729.95
+  },
+  "ORD00182": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 136.49
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 115.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 57.95
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-04",
+    "total": 425.42
+  },
+  "ORD00184": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 107.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 210.49
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-08",
+    "total": 635.96
+  },
+  "ORD00186": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 141.99
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-16",
+    "total": 141.99
+  },
+  "ORD00001": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 100.49
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 18.99
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 139.99
+      }
+    ],
+    "placed_at": "2026-05-29",
+    "estimated_delivery": "2026-05-31",
+    "total": 418.45
+  },
+  "ORD00002": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 188.0
+      }
+    ],
+    "placed_at": "2026-06-08",
+    "estimated_delivery": "2026-06-15",
+    "total": 376.0
+  },
+  "ORD00003": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 98.95
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 154.49
+      }
+    ],
+    "placed_at": "2026-05-16",
+    "estimated_delivery": "2026-05-18",
+    "total": 407.93
+  },
+  "ORD00004": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 56.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 61.95
+      }
+    ],
+    "placed_at": "2026-05-16",
+    "estimated_delivery": "2026-05-21",
+    "total": 175.93
+  },
+  "ORD00006": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 24.0
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-04",
+    "total": 48.0
+  },
+  "ORD00007": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 10.99
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 219.0
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 44.49
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-30",
+    "total": 537.97
+  },
+  "ORD00008": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 16.99
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 43.99
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-16",
+    "total": 77.97
+  },
+  "ORD00009": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 51.49
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 146.95
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-12",
+    "total": 345.39
+  },
+  "ORD00010": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 146.99
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 100.99
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 227.99
+      }
+    ],
+    "placed_at": "2026-05-26",
+    "estimated_delivery": "2026-06-05",
+    "total": 804.95
+  },
+  "ORD00011": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 162.49
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-06",
+    "total": 162.49
+  },
+  "ORD00014": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 83.0
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 107.95
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-06",
+    "total": 298.9
+  },
+  "ORD00016": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 175.95
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 11.95
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-28",
+    "total": 187.9
+  },
+  "ORD00017": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 73.0
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-10",
+    "total": 146.0
+  },
+  "ORD00018": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 168.99
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 224.0
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 100.49
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-23",
+    "total": 762.96
+  },
+  "ORD00019": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 166.49
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 57.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 65.95
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-20",
+    "total": 413.37
+  },
+  "ORD00020": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 243.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 243.49
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 237.0
+      }
+    ],
+    "placed_at": "2026-05-20",
+    "estimated_delivery": "2026-05-25",
+    "total": 967.47
+  },
+  "ORD00021": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 23.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 243.49
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-26",
+    "total": 266.98
+  },
+  "ORD00022": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 59.95
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 94.95
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-20",
+    "total": 309.8
+  },
+  "ORD00023": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 170.0
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-06",
+    "total": 170.0
+  },
+  "ORD00024": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 152.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 68.0
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 141.99
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-20",
+    "total": 362.48
+  },
+  "ORD00025": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 159.0
+      }
+    ],
+    "placed_at": "2026-06-10",
+    "estimated_delivery": "2026-06-19",
+    "total": 159.0
+  },
+  "ORD00026": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 177.99
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 173.99
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-10",
+    "total": 529.97
+  },
+  "ORD00028": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 88.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 155.95
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-12",
+    "total": 400.85
+  },
+  "ORD00029": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 80.99
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 81.95
+      }
+    ],
+    "placed_at": "2026-05-20",
+    "estimated_delivery": "2026-05-25",
+    "total": 162.94
+  },
+  "ORD00030": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 21.0
+      }
+    ],
+    "placed_at": "2026-05-22",
+    "estimated_delivery": "2026-05-25",
+    "total": 21.0
+  },
+  "ORD00033": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 139.99
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 100.49
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-06-03",
+    "total": 240.48
+  },
+  "ORD00034": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 42.95
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-04",
+    "total": 85.9
+  },
+  "ORD00037": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 245.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 245.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 60.0
+      }
+    ],
+    "placed_at": "2026-05-30",
+    "estimated_delivery": "2026-06-06",
+    "total": 1100.98
+  },
+  "ORD00042": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 55.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 231.95
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-11",
+    "total": 287.9
+  },
+  "ORD00043": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 140.0
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 26.95
+      }
+    ],
+    "placed_at": "2026-05-30",
+    "estimated_delivery": "2026-06-08",
+    "total": 333.9
+  },
+  "ORD00044": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 78.49
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-07",
+    "total": 156.98
+  },
+  "ORD00045": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 132.99
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 60.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 130.99
+      }
+    ],
+    "placed_at": "2026-05-29",
+    "estimated_delivery": "2026-06-01",
+    "total": 516.97
+  },
+  "ORD00046": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 26.49
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 194.99
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-27",
+    "total": 442.96
+  },
+  "ORD00049": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 227.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 248.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-10",
+    "total": 724.97
+  },
+  "ORD00050": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 201.0
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-06",
+    "total": 402.0
+  },
+  "ORD00053": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 173.0
+      }
+    ],
+    "placed_at": "2026-05-27",
+    "estimated_delivery": "2026-06-04",
+    "total": 346.0
+  },
+  "ORD00054": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 168.49
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 230.95
+      }
+    ],
+    "placed_at": "2026-06-03",
+    "estimated_delivery": "2026-06-08",
+    "total": 567.93
+  },
+  "ORD00056": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 158.0
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 59.0
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-11",
+    "total": 276.0
+  },
+  "ORD00057": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 119.99
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 156.0
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-05-31",
+    "total": 395.98
+  },
+  "ORD00058": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 193.0
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 217.0
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-11",
+    "total": 627.0
+  },
+  "ORD00059": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 238.0
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 244.49
+      }
+    ],
+    "placed_at": "2026-06-12",
+    "estimated_delivery": "2026-06-17",
+    "total": 726.98
+  },
+  "ORD00060": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 139.95
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-05-31",
+    "total": 279.9
+  },
+  "ORD00061": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 17.99
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 19.0
+      }
+    ],
+    "placed_at": "2026-05-30",
+    "estimated_delivery": "2026-06-03",
+    "total": 36.99
+  },
+  "ORD00062": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 189.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 162.0
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 188.0
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-25",
+    "total": 1078.0
+  },
+  "ORD00063": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 204.95
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 79.0
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 14.95
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-05-30",
+    "total": 597.8
+  },
+  "ORD00064": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 81.95
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 68.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-15",
+    "total": 150.44
+  },
+  "ORD00065": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 151.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 27.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 165.99
+      }
+    ],
+    "placed_at": "2026-05-22",
+    "estimated_delivery": "2026-05-31",
+    "total": 344.94
+  },
+  "ORD00066": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 153.95
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 67.99
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-10",
+    "total": 289.93
+  },
+  "ORD00067": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 198.99
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 248.0
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 145.99
+      }
+    ],
+    "placed_at": "2026-06-03",
+    "estimated_delivery": "2026-06-11",
+    "total": 937.96
+  },
+  "ORD00068": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 213.99
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 202.0
+      }
+    ],
+    "placed_at": "2026-06-09",
+    "estimated_delivery": "2026-06-14",
+    "total": 415.99
+  },
+  "ORD00069": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 70.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 47.0
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-06-02",
+    "total": 117.49
+  },
+  "ORD00070": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 241.95
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 216.49
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 90.95
+      }
+    ],
+    "placed_at": "2026-06-03",
+    "estimated_delivery": "2026-06-05",
+    "total": 1007.83
+  },
+  "ORD00071": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 106.99
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-06-06",
+    "total": 106.99
+  },
+  "ORD00072": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 136.95
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-27",
+    "total": 273.9
+  },
+  "ORD00074": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 148.49
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 234.49
+      }
+    ],
+    "placed_at": "2026-05-26",
+    "estimated_delivery": "2026-06-05",
+    "total": 765.96
+  },
+  "ORD00075": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 99.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 154.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 177.95
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-19",
+    "total": 685.93
+  },
+  "ORD00076": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 59.99
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 195.99
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-25",
+    "total": 315.97
+  },
+  "ORD00078": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 166.95
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-11",
+    "total": 166.95
+  },
+  "ORD00079": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 58.95
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 56.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 35.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-16",
+    "total": 150.44
+  },
+  "ORD00080": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 54.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 46.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 27.49
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-23",
+    "total": 211.45
+  },
+  "ORD00081": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 17.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 180.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 47.0
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-15",
+    "total": 443.96
+  },
+  "ORD00082": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 159.95
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 145.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 12.0
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-06-05",
+    "total": 463.93
+  },
+  "ORD00084": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 146.95
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-18",
+    "total": 293.9
+  },
+  "ORD00085": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 33.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 23.99
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-07",
+    "total": 113.98
+  },
+  "ORD00086": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 106.95
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 84.0
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 37.0
+      }
+    ],
+    "placed_at": "2026-05-16",
+    "estimated_delivery": "2026-05-20",
+    "total": 371.9
+  },
+  "ORD00087": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 186.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 147.95
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 181.49
+      }
+    ],
+    "placed_at": "2026-05-26",
+    "estimated_delivery": "2026-06-01",
+    "total": 663.39
+  },
+  "ORD00088": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 247.99
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 249.0
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-27",
+    "total": 744.98
+  },
+  "ORD00089": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 91.0
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 37.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 136.99
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-08",
+    "total": 440.88
+  },
+  "ORD00091": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 226.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-14",
+    "total": 226.49
+  },
+  "ORD00092": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 238.95
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 84.0
+      }
+    ],
+    "placed_at": "2026-05-22",
+    "estimated_delivery": "2026-05-31",
+    "total": 645.9
+  },
+  "ORD00093": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 36.49
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 154.95
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 97.95
+      }
+    ],
+    "placed_at": "2026-06-14",
+    "estimated_delivery": "2026-06-17",
+    "total": 387.34
+  },
+  "ORD00094": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 142.99
+      }
+    ],
+    "placed_at": "2026-06-08",
+    "estimated_delivery": "2026-06-17",
+    "total": 142.99
+  },
+  "ORD00095": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 107.99
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 54.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 28.99
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-30",
+    "total": 383.86
+  },
+  "ORD00096": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 208.0
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 128.0
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-16",
+    "total": 464.0
+  },
+  "ORD00097": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 127.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 35.99
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-22",
+    "total": 325.98
+  },
+  "ORD00099": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 210.99
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 245.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 84.0
+      }
+    ],
+    "placed_at": "2026-06-09",
+    "estimated_delivery": "2026-06-12",
+    "total": 835.47
+  },
+  "ORD00100": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 24.99
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 103.99
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-28",
+    "total": 153.97
+  },
+  "ORD00101": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 76.95
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-17",
+    "total": 76.95
+  },
+  "ORD00102": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 215.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 192.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 194.99
+      }
+    ],
+    "placed_at": "2026-05-20",
+    "estimated_delivery": "2026-05-29",
+    "total": 1205.88
+  },
+  "ORD00103": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 229.49
+      }
+    ],
+    "placed_at": "2026-06-08",
+    "estimated_delivery": "2026-06-16",
+    "total": 229.49
+  },
+  "ORD00104": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 234.95
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-12",
+    "total": 469.9
+  },
+  "ORD00106": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 34.95
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-16",
+    "total": 69.9
+  },
+  "ORD00107": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 235.95
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-06-02",
+    "total": 471.9
+  },
+  "ORD00108": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 192.0
+      }
+    ],
+    "placed_at": "2026-06-14",
+    "estimated_delivery": "2026-06-16",
+    "total": 384.0
+  },
+  "ORD00110": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 95.49
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-28",
+    "total": 95.49
+  },
+  "ORD00111": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 235.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 70.95
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-10",
+    "total": 377.39
+  },
+  "ORD00112": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 163.95
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-16",
+    "total": 163.95
+  },
+  "ORD00113": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 204.49
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-27",
+    "total": 204.49
+  },
+  "ORD00114": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 210.99
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 223.0
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 197.95
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-05-31",
+    "total": 1263.88
+  },
+  "ORD00115": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 75.99
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-05-30",
+    "total": 151.98
+  },
+  "ORD00117": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 227.49
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 13.0
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 65.99
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-31",
+    "total": 319.48
+  },
+  "ORD00118": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 169.0
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 176.0
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 96.99
+      }
+    ],
+    "placed_at": "2026-05-31",
+    "estimated_delivery": "2026-06-05",
+    "total": 441.99
+  },
+  "ORD00119": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 23.95
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-20",
+    "total": 47.9
+  },
+  "ORD00122": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 188.49
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 34.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 117.95
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-06-03",
+    "total": 647.37
+  },
+  "ORD00123": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 178.49
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 63.49
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-23",
+    "total": 305.47
+  },
+  "ORD00124": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 118.95
+      }
+    ],
+    "placed_at": "2026-06-01",
+    "estimated_delivery": "2026-06-05",
+    "total": 118.95
+  },
+  "ORD00125": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 128.0
+      }
+    ],
+    "placed_at": "2026-06-01",
+    "estimated_delivery": "2026-06-05",
+    "total": 128.0
+  },
+  "ORD00126": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 137.49
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-28",
+    "total": 274.98
+  },
+  "ORD00128": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 141.49
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-23",
+    "total": 282.98
+  },
+  "ORD00129": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 40.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 95.99
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-21",
+    "total": 177.97
+  },
+  "ORD00130": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 103.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 113.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 163.95
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-06-02",
+    "total": 495.92
+  },
+  "ORD00131": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 226.95
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 24.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 215.95
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-26",
+    "total": 934.78
+  },
+  "ORD00132": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 119.99
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 240.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 92.99
+      }
+    ],
+    "placed_at": "2026-05-30",
+    "estimated_delivery": "2026-06-03",
+    "total": 692.98
+  },
+  "ORD00133": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 66.95
+      }
+    ],
+    "placed_at": "2026-06-01",
+    "estimated_delivery": "2026-06-06",
+    "total": 66.95
+  },
+  "ORD00134": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 225.49
+      }
+    ],
+    "placed_at": "2026-06-09",
+    "estimated_delivery": "2026-06-11",
+    "total": 225.49
+  },
+  "ORD00135": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 111.95
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 197.0
+      }
+    ],
+    "placed_at": "2026-06-10",
+    "estimated_delivery": "2026-06-16",
+    "total": 617.9
+  },
+  "ORD00136": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 15.49
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-14",
+    "total": 30.98
+  },
+  "ORD00137": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 172.95
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 108.95
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 203.95
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-17",
+    "total": 594.8
+  },
+  "ORD00138": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 216.49
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 53.0
+      }
+    ],
+    "placed_at": "2026-06-08",
+    "estimated_delivery": "2026-06-16",
+    "total": 538.98
+  },
+  "ORD00139": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 197.95
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 236.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 98.49
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-06-03",
+    "total": 1064.88
+  },
+  "ORD00140": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 226.49
+      }
+    ],
+    "placed_at": "2026-06-08",
+    "estimated_delivery": "2026-06-13",
+    "total": 226.49
+  },
+  "ORD00142": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 247.99
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 133.49
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-06-02",
+    "total": 629.47
+  },
+  "ORD00143": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 31.49
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 90.0
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-27",
+    "total": 211.49
+  },
+  "ORD00144": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 94.95
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 238.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 112.99
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-11",
+    "total": 540.89
+  },
+  "ORD00145": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 81.99
+      }
+    ],
+    "placed_at": "2026-06-11",
+    "estimated_delivery": "2026-06-14",
+    "total": 163.98
+  },
+  "ORD00146": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 187.0
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 203.99
+      }
+    ],
+    "placed_at": "2026-05-26",
+    "estimated_delivery": "2026-06-05",
+    "total": 781.98
+  },
+  "ORD00147": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 171.49
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 174.99
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-07",
+    "total": 521.47
+  },
+  "ORD00148": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 132.0
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-11",
+    "total": 132.0
+  },
+  "ORD00149": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 173.49
+      }
+    ],
+    "placed_at": "2026-06-01",
+    "estimated_delivery": "2026-06-09",
+    "total": 173.49
+  },
+  "ORD00150": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 222.99
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-26",
+    "total": 445.98
+  },
+  "ORD00151": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 23.0
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 77.99
+      }
+    ],
+    "placed_at": "2026-06-14",
+    "estimated_delivery": "2026-06-24",
+    "total": 100.99
+  },
+  "ORD00152": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 246.49
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-23",
+    "total": 246.49
+  },
+  "ORD00153": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 237.95
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 176.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 223.49
+      }
+    ],
+    "placed_at": "2026-06-06",
+    "estimated_delivery": "2026-06-11",
+    "total": 861.92
+  },
+  "ORD00154": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 16.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 132.49
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-17",
+    "total": 281.93
+  },
+  "ORD00155": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 201.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 172.99
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 13.49
+      }
+    ],
+    "placed_at": "2026-06-07",
+    "estimated_delivery": "2026-06-10",
+    "total": 401.92
+  },
+  "ORD00156": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 55.0
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-11",
+    "total": 55.0
+  },
+  "ORD00157": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 120.99
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 218.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 176.49
+      }
+    ],
+    "placed_at": "2026-06-12",
+    "estimated_delivery": "2026-06-19",
+    "total": 855.45
+  },
+  "ORD00158": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 26.95
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 187.95
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-06-03",
+    "total": 402.85
+  },
+  "ORD00160": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 28.99
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 247.0
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 109.0
+      }
+    ],
+    "placed_at": "2026-05-20",
+    "estimated_delivery": "2026-05-27",
+    "total": 384.99
+  },
+  "ORD00162": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 222.49
+      }
+    ],
+    "placed_at": "2026-06-12",
+    "estimated_delivery": "2026-06-17",
+    "total": 444.98
+  },
+  "ORD00164": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 241.95
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-21",
+    "total": 241.95
+  },
+  "ORD00165": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 50.99
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-08",
+    "total": 50.99
+  },
+  "ORD00166": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 16.49
+      }
+    ],
+    "placed_at": "2026-05-26",
+    "estimated_delivery": "2026-05-31",
+    "total": 16.49
+  },
+  "ORD00167": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 41.99
+      }
+    ],
+    "placed_at": "2026-06-09",
+    "estimated_delivery": "2026-06-13",
+    "total": 41.99
+  },
+  "ORD00168": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 172.95
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 211.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 42.99
+      }
+    ],
+    "placed_at": "2026-05-18",
+    "estimated_delivery": "2026-05-22",
+    "total": 427.89
+  },
+  "ORD00169": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 137.99
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-16",
+    "total": 275.98
+  },
+  "ORD00173": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 156.0
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-06-04",
+    "total": 156.0
+  },
+  "ORD00174": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 10.0
+      }
+    ],
+    "placed_at": "2026-06-02",
+    "estimated_delivery": "2026-06-11",
+    "total": 20.0
+  },
+  "ORD00176": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 193.99
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 110.99
+      }
+    ],
+    "placed_at": "2026-05-25",
+    "estimated_delivery": "2026-05-27",
+    "total": 609.96
+  },
+  "ORD00177": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 111.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 136.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 239.0
+      }
+    ],
+    "placed_at": "2026-05-27",
+    "estimated_delivery": "2026-06-06",
+    "total": 733.0
+  },
+  "ORD00178": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 97.49
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 175.99
+      }
+    ],
+    "placed_at": "2026-05-27",
+    "estimated_delivery": "2026-06-01",
+    "total": 546.96
+  },
+  "ORD00179": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 135.49
+      },
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 160.0
+      },
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 74.99
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-29",
+    "total": 665.97
+  },
+  "ORD00180": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 229.95
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 133.49
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 2,
+        "price": 94.95
+      }
+    ],
+    "placed_at": "2026-05-27",
+    "estimated_delivery": "2026-06-04",
+    "total": 916.78
+  },
+  "ORD00181": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 66.99
+      }
+    ],
+    "placed_at": "2026-05-22",
+    "estimated_delivery": "2026-05-28",
+    "total": 66.99
+  },
+  "ORD00183": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 2,
+        "price": 30.95
+      },
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 180.95
+      }
+    ],
+    "placed_at": "2026-05-26",
+    "estimated_delivery": "2026-06-02",
+    "total": 242.85
+  },
+  "ORD00185": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 64.95
+      },
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 66.95
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 47.0
+      }
+    ],
+    "placed_at": "2026-05-30",
+    "estimated_delivery": "2026-06-03",
+    "total": 225.9
+  },
+  "ORD00187": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Desk Lamp",
+        "category": "Home",
+        "qty": 1,
+        "price": 118.95
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 219.99
+      }
+    ],
+    "placed_at": "2026-05-23",
+    "estimated_delivery": "2026-05-28",
+    "total": 338.94
+  },
+  "ORD00188": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 205.99
+      },
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 41.0
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 2,
+        "price": 56.99
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-14",
+    "total": 607.96
+  },
+  "ORD00189": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 131.99
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-05-30",
+    "total": 131.99
+  },
+  "ORD00190": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 81.95
+      }
+    ],
+    "placed_at": "2026-05-27",
+    "estimated_delivery": "2026-06-04",
+    "total": 81.95
+  },
+  "ORD00191": {
+    "status": "delivered",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 141.0
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 207.95
+      }
+    ],
+    "placed_at": "2026-06-05",
+    "estimated_delivery": "2026-06-12",
+    "total": 348.95
+  },
+  "ORD00192": {
+    "status": "shipped",
+    "items": [
+      {
+        "name": "Water Bottle",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 181.49
+      }
+    ],
+    "placed_at": "2026-06-12",
+    "estimated_delivery": "2026-06-20",
+    "total": 181.49
+  },
+  "ORD00193": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 40.99
+      },
+      {
+        "name": "Yoga Mat",
+        "category": "Fitness",
+        "qty": 1,
+        "price": 11.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 223.99
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-16",
+    "total": 275.98
+  },
+  "ORD00194": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 12.0
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 248.49
+      }
+    ],
+    "placed_at": "2026-05-24",
+    "estimated_delivery": "2026-06-01",
+    "total": 508.98
+  },
+  "ORD00195": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 170.49
+      },
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 52.49
+      },
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 1,
+        "price": 204.99
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-24",
+    "total": 480.46
+  },
+  "ORD00196": {
+    "status": "cancelled",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 1,
+        "price": 190.0
+      }
+    ],
+    "placed_at": "2026-05-21",
+    "estimated_delivery": "2026-05-25",
+    "total": 190.0
+  },
+  "ORD00197": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 208.49
+      }
+    ],
+    "placed_at": "2026-06-04",
+    "estimated_delivery": "2026-06-14",
+    "total": 208.49
+  },
+  "ORD00198": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "qty": 2,
+        "price": 70.0
+      }
+    ],
+    "placed_at": "2026-05-19",
+    "estimated_delivery": "2026-05-29",
+    "total": 140.0
+  },
+  "ORD00199": {
+    "status": "processing",
+    "items": [
+      {
+        "name": "Coffee Maker",
+        "category": "Home",
+        "qty": 2,
+        "price": 197.95
+      },
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 13.95
+      }
+    ],
+    "placed_at": "2026-06-13",
+    "estimated_delivery": "2026-06-20",
+    "total": 409.85
+  },
+  "ORD00200": {
+    "status": "returned",
+    "items": [
+      {
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "qty": 1,
+        "price": 176.95
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 1,
+        "price": 240.0
+      },
+      {
+        "name": "Backpack",
+        "category": "Apparel",
+        "qty": 2,
+        "price": 79.49
+      }
+    ],
+    "placed_at": "2026-05-28",
+    "estimated_delivery": "2026-05-30",
+    "total": 575.93
+  }
+}

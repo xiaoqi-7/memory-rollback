@@ -1,0 +1,27 @@
+memaudit_style:
+  alpha: 0.5
+  counterfactual_replay_scope: final_turn
+  selection:
+    mode: threshold
+    threshold: 0.5
+  consistency_graph:
+    enabled: true
+  oracle:
+    use_deterministic_oracle: true
+
+agenttrace_style:
+  candidate_step_types: [memory_read, claim, plan, tool_action, final_answer]
+  max_candidates: 12
+  ranking:
+    backward_relevance_weight: 0.40
+    affected_membership_weight: 0.25
+    faulty_memory_signal_weight: 0.20
+    downstream_reach_weight: 0.10
+    step_type_prior_weight: 0.05
+  memory_read_policy: replay_only
+  allow_persistent_memory_deletion: false
+  replay_scope: fault_source_plus_selected_step_to_trace_end
+  oracle:
+    use_deterministic_oracle: true
+  fallback:
+    mode: last_final_answer

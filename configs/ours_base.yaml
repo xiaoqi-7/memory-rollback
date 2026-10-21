@@ -1,0 +1,47 @@
+# =========================================================================== #
+# ours_base.yaml — BASE configuration for the "ours" repair pipeline.
+#
+# This file holds the DEFAULT hyperparameters for run_ours.py. It is the single
+# baseline every run starts from. To change a value for a one-off experiment or
+# an ablation arm, do NOT copy this file: pass a dotted-path override on the
+# run_ours.py CLI instead, e.g.
+#
+#     --set support_check.use_trust_score=true
+#     --set ablation.skip_rollback_optimizer=true
+#     --set rollback_objective.lambda_t=0.05
+#
+# Overrides are applied on top of these defaults by ours_config.apply_overrides
+# (see methods/ours/ours_config.py), so each ablation arm is a one-line flag
+# rather than a separate near-duplicate YAML file that drifts out of sync with
+# this base.
+#
+# NOTE ON DEFAULTS: the rollback_objective lambdas below are FROM SPEC and are
+# placeholders — the spec names the five terms but gives no numeric values.
+# They MUST be tuned before any real run; the values here only make the
+# objective runnable, they are not empirically validated weights.
+# =========================================================================== #
+
+support_check:
+  use_trust_score: False
+  # trust_threshold is NOT an independently validated empirical value. It was
+  # set to track the boundary the synthetic-data generator uses in THIS project:
+  # clean memories are generated with trust_score ~0.8-1.0 and faulty ones with
+  # ~0.5-0.8, so 0.8 sits on that generated separation. It tracks the
+  # generator's boundary, not a tuned real-world threshold — do not read it as
+  # an empirically calibrated number.
+  trust_threshold: 0.8
+
+ablation:                   # section 15 toggles. These are PIPELINE-LEVEL
+                            # decisions made by run_ours.py / rollback_optimizer.py,
+                            # NOT flags inside support_checker.py or any other
+                            # single module.
+  skip_support_check: false      # Full Ours runs both step and derived-memory
+                                  # support checks. Set true for "Ours w/o
+                                  # independent support check", which marks all
+                                  # checkable steps and derived candidates
+                                  # unsupported without running either check.
+  skip_rollback_optimizer: false  # "Ours w/o rollback optimizer": delete/replay
+                                  # the entire affected subgraph, no
+                                  # minimization.
+  skip_selective_replay: false    # "Ours w/o selective replay": replay the full
+                                  # trace instead of just the affected steps.

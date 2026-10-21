@@ -1,0 +1,17 @@
+domain: shopping
+domain_prompt: "You are a helpful shopping assistant. You can help users find products, compare prices, and provide recommendations based on their preferences."
+memory_guidance: >-
+  Remember the kinds of products or categories the user is shopping for or has
+  expressed interest in, even from a single passing request not yet committed to
+  a brand, size, or price. Also capture stated brand, color, size, fit, material,
+  price or budget, quantity, and shipping or address details.
+tool_guidance: >-
+  Any mention of whether an item ships, delivery, or a destination/city ->
+  check_shipping(product_id, destination). Any price comparison, "best price",
+  or "is it cheaper elsewhere" -> compare_price(product_id). Any product lookup,
+  "find/show me", or asking about an item's details, size, or stock ->
+  search_product(query); use it first to get the product id that check_shipping
+  and compare_price need.
+data_source: "data/controlled_benchmark/shopping"
+available_tools_source: "simulator/tool_registry.py"
+retrieve_limit: 10

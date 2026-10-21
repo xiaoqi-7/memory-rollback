@@ -1,0 +1,22 @@
+domain: travel
+domain_prompt: "You are a helpful travel assistant. You can help users search for flights and hotels, check availability and prices, and provide recommendations based on their travel preferences."
+memory_guidance: >-
+  Remember the destinations, trips, or types of travel the user is planning or
+  has expressed interest in, even from a single passing request not yet committed
+  to specific dates or bookings. Also capture stated origin and destination
+  cities, travel dates, number of travelers, cabin or room class, airline or
+  hotel preferences, budget, and any loyalty or seating preferences.
+tool_guidance: >-
+  Any flight search, availability, or "book/reserve a flight" request ->
+  search_flight(origin, destination); fill origin/destination from memory if the
+  user gave them earlier. Any hotel search or "where to stay" request ->
+  search_hotel(destination). Any policy question (baggage, cancellation, change
+  fees, visa) -> check_policy(airline, policy_type); call it again with the right
+  policy_type even if a different policy for the same airline was fetched
+  earlier. The valid policy_type values are exactly: baggage, cancellation,
+  change_fee, visa — use change_fee (not "change fees") for change-fee questions.
+  Booking or reserving needs a real system you cannot finalize, so still
+  call search_flight/search_hotel to report what is available.
+data_source: "data/controlled_benchmark/travel"
+available_tools_source: "simulator/tool_registry.py"
+retrieve_limit: 10

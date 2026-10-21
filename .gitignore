@@ -1,0 +1,27 @@
+# Local credentials (keep the configuration template)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated experiment outputs
+outputs/
+eval_outputs/
+*.log
+
+# macOS metadata and editor files
+.DS_Store
+._*
+__MACOSX/
+.idea/
+.vscode/

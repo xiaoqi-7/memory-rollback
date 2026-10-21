@@ -1,0 +1,802 @@
+[
+  {
+    "id": "H0001",
+    "name": "IHG Hong Kong",
+    "city": "Hong Kong",
+    "neighborhood": "Old Town",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Pool, Free WiFi",
+    "price_per_night": 360.49,
+    "rooms_available": 1
+  },
+  {
+    "id": "H0002",
+    "name": "Shangri-La Sydney",
+    "city": "Sydney",
+    "neighborhood": "Harbourfront",
+    "stars": 2,
+    "amenities": "Spa, Breakfast, Airport Shuttle, Parking",
+    "price_per_night": 152.95,
+    "rooms_available": 5
+  },
+  {
+    "id": "H0008",
+    "name": "IHG Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Airport District",
+    "stars": 4,
+    "amenities": "Breakfast, Parking",
+    "price_per_night": 298.0,
+    "rooms_available": 19
+  },
+  {
+    "id": "H0017",
+    "name": "Accor London",
+    "city": "London",
+    "neighborhood": "Business District",
+    "stars": 3,
+    "amenities": "Breakfast, Spa, Free WiFi, Gym",
+    "price_per_night": 291.99,
+    "rooms_available": 23
+  },
+  {
+    "id": "H0039",
+    "name": "Accor Sydney",
+    "city": "Sydney",
+    "neighborhood": "Harbourfront",
+    "stars": 2,
+    "amenities": "Parking, Free WiFi, Pool, Spa",
+    "price_per_night": 192.0,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0041",
+    "name": "Shangri-La Paris",
+    "city": "Paris",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Parking, Pool, Free WiFi, Spa, Airport Shuttle",
+    "price_per_night": 140.99,
+    "rooms_available": 16
+  },
+  {
+    "id": "H0045",
+    "name": "IHG Dubai",
+    "city": "Dubai",
+    "neighborhood": "Business District",
+    "stars": 4,
+    "amenities": "Free WiFi, Spa",
+    "price_per_night": 377.0,
+    "rooms_available": 19
+  },
+  {
+    "id": "H0055",
+    "name": "Hilton Singapore",
+    "city": "Singapore",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Pool, Gym, Breakfast",
+    "price_per_night": 235.95,
+    "rooms_available": 23
+  },
+  {
+    "id": "H0059",
+    "name": "Hyatt Singapore",
+    "city": "Singapore",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Breakfast, Pool",
+    "price_per_night": 465.95,
+    "rooms_available": 15
+  },
+  {
+    "id": "H0063",
+    "name": "Hyatt Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Harbourfront",
+    "stars": 4,
+    "amenities": "Pool, Airport Shuttle",
+    "price_per_night": 273.0,
+    "rooms_available": 3
+  },
+  {
+    "id": "H0065",
+    "name": "Hyatt Sydney",
+    "city": "Sydney",
+    "neighborhood": "Old Town",
+    "stars": 3,
+    "amenities": "Spa, Airport Shuttle, Pool",
+    "price_per_night": 325.49,
+    "rooms_available": 12
+  },
+  {
+    "id": "H0074",
+    "name": "Marriott Paris",
+    "city": "Paris",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Free WiFi, Pool, Spa",
+    "price_per_night": 363.49,
+    "rooms_available": 4
+  },
+  {
+    "id": "H0075",
+    "name": "Marriott London",
+    "city": "London",
+    "neighborhood": "Downtown",
+    "stars": 4,
+    "amenities": "Gym, Spa, Free WiFi, Parking",
+    "price_per_night": 252.49,
+    "rooms_available": 19
+  },
+  {
+    "id": "H0097",
+    "name": "Hilton Auckland",
+    "city": "Auckland",
+    "neighborhood": "Harbourfront",
+    "stars": 3,
+    "amenities": "Gym, Parking, Free WiFi",
+    "price_per_night": 314.0,
+    "rooms_available": 22
+  },
+  {
+    "id": "H0003",
+    "name": "Hilton Sydney",
+    "city": "Sydney",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Airport Shuttle, Spa, Breakfast, Gym",
+    "price_per_night": 245.49,
+    "rooms_available": 19
+  },
+  {
+    "id": "H0004",
+    "name": "Accor Singapore",
+    "city": "Singapore",
+    "neighborhood": "Business District",
+    "stars": 4,
+    "amenities": "Gym, Airport Shuttle",
+    "price_per_night": 268.49,
+    "rooms_available": 6
+  },
+  {
+    "id": "H0005",
+    "name": "Accor London",
+    "city": "London",
+    "neighborhood": "Airport District",
+    "stars": 2,
+    "amenities": "Gym, Airport Shuttle, Breakfast, Spa, Free WiFi",
+    "price_per_night": 143.99,
+    "rooms_available": 10
+  },
+  {
+    "id": "H0006",
+    "name": "Hyatt Auckland",
+    "city": "Auckland",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Airport Shuttle, Gym, Spa, Breakfast",
+    "price_per_night": 186.99,
+    "rooms_available": 3
+  },
+  {
+    "id": "H0007",
+    "name": "Marriott Hong Kong",
+    "city": "Hong Kong",
+    "neighborhood": "Airport District",
+    "stars": 4,
+    "amenities": "Spa, Airport Shuttle, Breakfast, Free WiFi",
+    "price_per_night": 257.99,
+    "rooms_available": 13
+  },
+  {
+    "id": "H0009",
+    "name": "Accor Los Angeles",
+    "city": "Los Angeles",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Gym, Pool, Breakfast",
+    "price_per_night": 120.0,
+    "rooms_available": 5
+  },
+  {
+    "id": "H0010",
+    "name": "Shangri-La Auckland",
+    "city": "Auckland",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Parking, Pool",
+    "price_per_night": 132.95,
+    "rooms_available": 20
+  },
+  {
+    "id": "H0011",
+    "name": "Shangri-La Los Angeles",
+    "city": "Los Angeles",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Breakfast, Gym",
+    "price_per_night": 358.49,
+    "rooms_available": 21
+  },
+  {
+    "id": "H0012",
+    "name": "IHG Paris",
+    "city": "Paris",
+    "neighborhood": "Harbourfront",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Gym, Parking",
+    "price_per_night": 529.49,
+    "rooms_available": 12
+  },
+  {
+    "id": "H0013",
+    "name": "IHG Singapore",
+    "city": "Singapore",
+    "neighborhood": "Harbourfront",
+    "stars": 2,
+    "amenities": "Pool, Airport Shuttle, Parking, Breakfast",
+    "price_per_night": 137.0,
+    "rooms_available": 24
+  },
+  {
+    "id": "H0015",
+    "name": "Hyatt London",
+    "city": "London",
+    "neighborhood": "Old Town",
+    "stars": 5,
+    "amenities": "Free WiFi, Gym",
+    "price_per_night": 534.95,
+    "rooms_available": 2
+  },
+  {
+    "id": "H0016",
+    "name": "Hilton Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Downtown",
+    "stars": 4,
+    "amenities": "Free WiFi, Spa",
+    "price_per_night": 373.49,
+    "rooms_available": 22
+  },
+  {
+    "id": "H0019",
+    "name": "Shangri-La Auckland",
+    "city": "Auckland",
+    "neighborhood": "Harbourfront",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Spa, Gym, Free WiFi, Breakfast",
+    "price_per_night": 440.95,
+    "rooms_available": 10
+  },
+  {
+    "id": "H0020",
+    "name": "Accor Los Angeles",
+    "city": "Los Angeles",
+    "neighborhood": "Old Town",
+    "stars": 2,
+    "amenities": "Free WiFi, Parking, Breakfast, Airport Shuttle",
+    "price_per_night": 211.0,
+    "rooms_available": 15
+  },
+  {
+    "id": "H0021",
+    "name": "Hilton Singapore",
+    "city": "Singapore",
+    "neighborhood": "Airport District",
+    "stars": 5,
+    "amenities": "Parking, Airport Shuttle, Gym, Spa, Breakfast",
+    "price_per_night": 420.99,
+    "rooms_available": 18
+  },
+  {
+    "id": "H0022",
+    "name": "Shangri-La Dubai",
+    "city": "Dubai",
+    "neighborhood": "Business District",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Parking",
+    "price_per_night": 480.49,
+    "rooms_available": 25
+  },
+  {
+    "id": "H0023",
+    "name": "Shangri-La Auckland",
+    "city": "Auckland",
+    "neighborhood": "Airport District",
+    "stars": 5,
+    "amenities": "Breakfast, Spa, Pool, Gym",
+    "price_per_night": 381.0,
+    "rooms_available": 5
+  },
+  {
+    "id": "H0024",
+    "name": "Shangri-La London",
+    "city": "London",
+    "neighborhood": "Business District",
+    "stars": 5,
+    "amenities": "Pool, Free WiFi, Airport Shuttle",
+    "price_per_night": 537.49,
+    "rooms_available": 7
+  },
+  {
+    "id": "H0026",
+    "name": "Hyatt Singapore",
+    "city": "Singapore",
+    "neighborhood": "Harbourfront",
+    "stars": 4,
+    "amenities": "Airport Shuttle, Spa",
+    "price_per_night": 438.0,
+    "rooms_available": 15
+  },
+  {
+    "id": "H0027",
+    "name": "Hilton Singapore",
+    "city": "Singapore",
+    "neighborhood": "Harbourfront",
+    "stars": 3,
+    "amenities": "Free WiFi, Breakfast, Pool, Airport Shuttle, Spa",
+    "price_per_night": 294.0,
+    "rooms_available": 2
+  },
+  {
+    "id": "H0028",
+    "name": "Shangri-La London",
+    "city": "London",
+    "neighborhood": "Harbourfront",
+    "stars": 2,
+    "amenities": "Pool, Breakfast, Airport Shuttle",
+    "price_per_night": 237.99,
+    "rooms_available": 19
+  },
+  {
+    "id": "H0029",
+    "name": "Hyatt London",
+    "city": "London",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Parking, Spa",
+    "price_per_night": 228.0,
+    "rooms_available": 17
+  },
+  {
+    "id": "H0030",
+    "name": "Marriott Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Downtown",
+    "stars": 3,
+    "amenities": "Gym, Parking, Airport Shuttle, Breakfast, Spa",
+    "price_per_night": 240.95,
+    "rooms_available": 17
+  },
+  {
+    "id": "H0032",
+    "name": "IHG Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Downtown",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Spa, Gym, Pool",
+    "price_per_night": 317.95,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0033",
+    "name": "Shangri-La Auckland",
+    "city": "Auckland",
+    "neighborhood": "Old Town",
+    "stars": 5,
+    "amenities": "Breakfast, Pool",
+    "price_per_night": 360.49,
+    "rooms_available": 18
+  },
+  {
+    "id": "H0035",
+    "name": "Marriott Paris",
+    "city": "Paris",
+    "neighborhood": "Business District",
+    "stars": 3,
+    "amenities": "Free WiFi, Spa, Pool",
+    "price_per_night": 240.0,
+    "rooms_available": 18
+  },
+  {
+    "id": "H0036",
+    "name": "Hyatt Paris",
+    "city": "Paris",
+    "neighborhood": "Airport District",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Parking, Breakfast, Gym",
+    "price_per_night": 590.99,
+    "rooms_available": 18
+  },
+  {
+    "id": "H0037",
+    "name": "Shangri-La Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Downtown",
+    "stars": 5,
+    "amenities": "Gym, Breakfast, Parking, Airport Shuttle, Free WiFi",
+    "price_per_night": 485.99,
+    "rooms_available": 6
+  },
+  {
+    "id": "H0040",
+    "name": "IHG Dubai",
+    "city": "Dubai",
+    "neighborhood": "Old Town",
+    "stars": 2,
+    "amenities": "Spa, Breakfast, Parking, Airport Shuttle, Pool",
+    "price_per_night": 164.0,
+    "rooms_available": 12
+  },
+  {
+    "id": "H0042",
+    "name": "IHG Auckland",
+    "city": "Auckland",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Breakfast, Parking, Spa, Pool",
+    "price_per_night": 319.95,
+    "rooms_available": 22
+  },
+  {
+    "id": "H0043",
+    "name": "Hyatt Dubai",
+    "city": "Dubai",
+    "neighborhood": "Old Town",
+    "stars": 5,
+    "amenities": "Pool, Gym, Parking, Airport Shuttle",
+    "price_per_night": 527.49,
+    "rooms_available": 4
+  },
+  {
+    "id": "H0044",
+    "name": "Marriott Auckland",
+    "city": "Auckland",
+    "neighborhood": "Downtown",
+    "stars": 3,
+    "amenities": "Breakfast, Free WiFi",
+    "price_per_night": 340.95,
+    "rooms_available": 15
+  },
+  {
+    "id": "H0046",
+    "name": "IHG Dubai",
+    "city": "Dubai",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Breakfast, Parking, Free WiFi, Gym",
+    "price_per_night": 324.99,
+    "rooms_available": 6
+  },
+  {
+    "id": "H0047",
+    "name": "Hilton Los Angeles",
+    "city": "Los Angeles",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Breakfast, Parking, Spa, Gym",
+    "price_per_night": 153.0,
+    "rooms_available": 24
+  },
+  {
+    "id": "H0048",
+    "name": "Accor Auckland",
+    "city": "Auckland",
+    "neighborhood": "Airport District",
+    "stars": 4,
+    "amenities": "Airport Shuttle, Pool, Parking, Spa, Gym",
+    "price_per_night": 272.99,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0049",
+    "name": "Shangri-La Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Airport District",
+    "stars": 2,
+    "amenities": "Airport Shuttle, Breakfast, Spa, Free WiFi",
+    "price_per_night": 231.95,
+    "rooms_available": 15
+  },
+  {
+    "id": "H0050",
+    "name": "Accor Hong Kong",
+    "city": "Hong Kong",
+    "neighborhood": "Downtown",
+    "stars": 5,
+    "amenities": "Breakfast, Pool, Parking, Free WiFi, Airport Shuttle",
+    "price_per_night": 369.99,
+    "rooms_available": 2
+  },
+  {
+    "id": "H0051",
+    "name": "Hyatt Sydney",
+    "city": "Sydney",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Breakfast, Free WiFi, Parking, Pool",
+    "price_per_night": 323.99,
+    "rooms_available": 8
+  },
+  {
+    "id": "H0052",
+    "name": "Accor Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Airport District",
+    "stars": 5,
+    "amenities": "Gym, Breakfast",
+    "price_per_night": 416.49,
+    "rooms_available": 6
+  },
+  {
+    "id": "H0057",
+    "name": "Marriott Dubai",
+    "city": "Dubai",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Spa, Airport Shuttle",
+    "price_per_night": 452.0,
+    "rooms_available": 17
+  },
+  {
+    "id": "H0060",
+    "name": "Marriott Singapore",
+    "city": "Singapore",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Airport Shuttle, Parking, Free WiFi, Gym, Spa",
+    "price_per_night": 464.49,
+    "rooms_available": 13
+  },
+  {
+    "id": "H0064",
+    "name": "Shangri-La Hong Kong",
+    "city": "Hong Kong",
+    "neighborhood": "Business District",
+    "stars": 2,
+    "amenities": "Airport Shuttle, Spa, Parking",
+    "price_per_night": 181.49,
+    "rooms_available": 2
+  },
+  {
+    "id": "H0066",
+    "name": "Shangri-La Dubai",
+    "city": "Dubai",
+    "neighborhood": "Airport District",
+    "stars": 5,
+    "amenities": "Airport Shuttle, Parking",
+    "price_per_night": 548.49,
+    "rooms_available": 22
+  },
+  {
+    "id": "H0067",
+    "name": "Marriott Singapore",
+    "city": "Singapore",
+    "neighborhood": "Harbourfront",
+    "stars": 3,
+    "amenities": "Parking, Pool, Breakfast",
+    "price_per_night": 248.0,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0068",
+    "name": "Hyatt Paris",
+    "city": "Paris",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Parking, Pool, Airport Shuttle",
+    "price_per_night": 120.99,
+    "rooms_available": 24
+  },
+  {
+    "id": "H0069",
+    "name": "Hyatt London",
+    "city": "London",
+    "neighborhood": "Business District",
+    "stars": 5,
+    "amenities": "Spa, Airport Shuttle, Parking",
+    "price_per_night": 388.95,
+    "rooms_available": 22
+  },
+  {
+    "id": "H0070",
+    "name": "Accor Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Downtown",
+    "stars": 5,
+    "amenities": "Free WiFi, Pool, Breakfast",
+    "price_per_night": 594.99,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0072",
+    "name": "Marriott London",
+    "city": "London",
+    "neighborhood": "Harbourfront",
+    "stars": 5,
+    "amenities": "Breakfast, Spa, Parking",
+    "price_per_night": 306.49,
+    "rooms_available": 15
+  },
+  {
+    "id": "H0076",
+    "name": "Shangri-La Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Downtown",
+    "stars": 3,
+    "amenities": "Airport Shuttle, Spa, Free WiFi, Gym, Parking",
+    "price_per_night": 260.99,
+    "rooms_available": 13
+  },
+  {
+    "id": "H0078",
+    "name": "Accor Dubai",
+    "city": "Dubai",
+    "neighborhood": "Old Town",
+    "stars": 3,
+    "amenities": "Gym, Pool, Free WiFi, Spa, Parking",
+    "price_per_night": 306.0,
+    "rooms_available": 1
+  },
+  {
+    "id": "H0080",
+    "name": "Shangri-La Sydney",
+    "city": "Sydney",
+    "neighborhood": "Old Town",
+    "stars": 3,
+    "amenities": "Gym, Breakfast, Spa, Free WiFi, Parking",
+    "price_per_night": 204.99,
+    "rooms_available": 8
+  },
+  {
+    "id": "H0081",
+    "name": "IHG Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Gym, Pool",
+    "price_per_night": 239.0,
+    "rooms_available": 1
+  },
+  {
+    "id": "H0083",
+    "name": "Hyatt Sydney",
+    "city": "Sydney",
+    "neighborhood": "Downtown",
+    "stars": 3,
+    "amenities": "Free WiFi, Breakfast, Parking, Pool, Spa",
+    "price_per_night": 294.49,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0084",
+    "name": "Shangri-La London",
+    "city": "London",
+    "neighborhood": "Downtown",
+    "stars": 5,
+    "amenities": "Spa, Pool, Breakfast, Airport Shuttle",
+    "price_per_night": 383.95,
+    "rooms_available": 19
+  },
+  {
+    "id": "H0086",
+    "name": "IHG Auckland",
+    "city": "Auckland",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Breakfast, Airport Shuttle",
+    "price_per_night": 450.99,
+    "rooms_available": 6
+  },
+  {
+    "id": "H0087",
+    "name": "Marriott Sydney",
+    "city": "Sydney",
+    "neighborhood": "Business District",
+    "stars": 2,
+    "amenities": "Gym, Spa, Airport Shuttle, Parking",
+    "price_per_night": 216.95,
+    "rooms_available": 7
+  },
+  {
+    "id": "H0088",
+    "name": "Hyatt Sydney",
+    "city": "Sydney",
+    "neighborhood": "Business District",
+    "stars": 2,
+    "amenities": "Spa, Airport Shuttle, Breakfast",
+    "price_per_night": 224.49,
+    "rooms_available": 2
+  },
+  {
+    "id": "H0089",
+    "name": "Marriott Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Harbourfront",
+    "stars": 4,
+    "amenities": "Parking, Free WiFi",
+    "price_per_night": 374.0,
+    "rooms_available": 18
+  },
+  {
+    "id": "H0091",
+    "name": "Hilton London",
+    "city": "London",
+    "neighborhood": "Airport District",
+    "stars": 3,
+    "amenities": "Breakfast, Parking, Pool, Gym",
+    "price_per_night": 214.49,
+    "rooms_available": 14
+  },
+  {
+    "id": "H0092",
+    "name": "Marriott Melbourne",
+    "city": "Melbourne",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Gym, Pool, Parking, Free WiFi",
+    "price_per_night": 325.0,
+    "rooms_available": 4
+  },
+  {
+    "id": "H0093",
+    "name": "Hyatt Hong Kong",
+    "city": "Hong Kong",
+    "neighborhood": "Harbourfront",
+    "stars": 3,
+    "amenities": "Spa, Pool, Parking, Gym",
+    "price_per_night": 287.99,
+    "rooms_available": 22
+  },
+  {
+    "id": "H0094",
+    "name": "Hilton Tokyo",
+    "city": "Tokyo",
+    "neighborhood": "Harbourfront",
+    "stars": 5,
+    "amenities": "Pool, Spa, Breakfast",
+    "price_per_night": 552.95,
+    "rooms_available": 7
+  },
+  {
+    "id": "H0095",
+    "name": "IHG Sydney",
+    "city": "Sydney",
+    "neighborhood": "Downtown",
+    "stars": 3,
+    "amenities": "Pool, Airport Shuttle, Free WiFi, Spa",
+    "price_per_night": 254.0,
+    "rooms_available": 1
+  },
+  {
+    "id": "H0096",
+    "name": "IHG Sydney",
+    "city": "Sydney",
+    "neighborhood": "Old Town",
+    "stars": 4,
+    "amenities": "Gym, Free WiFi, Pool, Spa, Parking",
+    "price_per_night": 271.0,
+    "rooms_available": 20
+  },
+  {
+    "id": "H0098",
+    "name": "IHG London",
+    "city": "London",
+    "neighborhood": "Downtown",
+    "stars": 3,
+    "amenities": "Gym, Parking, Free WiFi, Airport Shuttle",
+    "price_per_night": 252.95,
+    "rooms_available": 4
+  },
+  {
+    "id": "H0099",
+    "name": "Hilton London",
+    "city": "London",
+    "neighborhood": "Downtown",
+    "stars": 2,
+    "amenities": "Parking, Gym, Free WiFi, Airport Shuttle, Spa",
+    "price_per_night": 209.99,
+    "rooms_available": 1
+  }
+]

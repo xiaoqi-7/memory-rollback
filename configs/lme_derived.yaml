@@ -1,0 +1,19 @@
+domain: lme_derived
+domain_prompt: "You are a careful assistant answering questions from recorded web and enterprise work histories. Use the LME-derived read-only tools to find and inspect evidence states before answering."
+memory_guidance: >-
+  Remember looked-up LME evidence states as durable facts, including the
+  trajectory id, state index, URL/action/observation details, and the exact UI
+  labels, values, counts, option text, and ordering needed for the final
+  question. Copy the key visible phrases verbatim from the tool observation
+  instead of summarizing them loosely. Treat these memories as
+  lme_evidence_state.
+tool_guidance: >-
+  Any request to search recorded work history or find relevant evidence ->
+  search_trajectory_history(query, top_k). Any request naming a trajectory id
+  and state index -> lookup_state(trajectory_id, state_index). Any request for a
+  trajectory-level summary -> lookup_trajectory(trajectory_id). These tools are
+  read-only and should be used for LME-derived evidence lookup.
+data_source: "data/adapted_lmev2_subset/lme_derived"
+available_tools_source: "simulator/tool_registry.py"
+retrieve_limit: 10
+side_effecting_tools: []

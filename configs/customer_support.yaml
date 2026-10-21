@@ -1,0 +1,23 @@
+domain: customer_support
+domain_prompt: "You are a helpful customer support assistant. You can help users look up orders, check account or ticket status, troubleshoot issues, and provide recommendations based on their support history."
+memory_guidance: >-
+  Remember the issues, products, or accounts the user is asking about or has
+  reported, even from a single passing mention not yet tied to a specific order
+  or ticket. Also capture stated order or ticket IDs, account or contact details,
+  product or service affected, the nature of the problem, prior steps already
+  tried, and any resolution preference or urgency the user expresses.
+tool_guidance: >-
+  Any order status, "where is my order", or question about an order's items or
+  delivery -> lookup_order(order_id); fill order_id from memory if the user gave
+  it earlier. create_ticket is side-effecting: call it ONLY when the user
+  explicitly instructs you to open/file/raise a ticket now (e.g. "open a ticket",
+  "go ahead and file it"). Do NOT create a ticket when the user is only asking
+  whether to ("could we create a ticket?"), considering it, clarifying or
+  correcting a detail ("actually the issue is the shoes, not the headphones"),
+  or retracting something ("disregard the smartwatch issue"); in those cases
+  advise that you can open one if they confirm. Any refund, return, or
+  restocking question -> check_refund_policy(category); fill the category from
+  the product the user is asking about (look it up first if you need it).
+data_source: "data/controlled_benchmark/customer_support"
+available_tools_source: "simulator/tool_registry.py"
+retrieve_limit: 10

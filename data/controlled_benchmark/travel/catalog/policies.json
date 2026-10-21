@@ -1,0 +1,56 @@
+{
+  "ANA": {
+    "baggage": {
+      "checked": "1 x 23kg included",
+      "cabin": "7kg cabin bag"
+    },
+    "cancellation": "150 AUD change fee",
+    "change_fee": "50 AUD change fee",
+    "visa": "Transit visa may be required for layovers over 8 hours."
+  },
+  "Cathay Pacific": {
+    "baggage": {
+      "checked": "no checked bag included",
+      "cabin": "12kg cabin bag"
+    },
+    "cancellation": "fully refundable",
+    "change_fee": "50 AUD change fee",
+    "visa": "Transit visa may be required for layovers over 8 hours."
+  },
+  "Emirates": {
+    "baggage": {
+      "checked": "1 x 23kg included",
+      "cabin": "10kg cabin bag"
+    },
+    "cancellation": "non-refundable",
+    "change_fee": "150 AUD change fee",
+    "visa": "Passengers are responsible for arranging their own visas."
+  },
+  "Qantas": {
+    "baggage": {
+      "checked": "1 x 23kg included",
+      "cabin": "10kg cabin bag"
+    },
+    "cancellation": "50 AUD change fee",
+    "change_fee": "150 AUD change fee",
+    "visa": "Passengers are responsible for arranging their own visas."
+  },
+  "Singapore Airlines": {
+    "baggage": {
+      "checked": "2 x 23kg included",
+      "cabin": "7kg cabin bag"
+    },
+    "cancellation": "fully refundable",
+    "change_fee": "fully refundable",
+    "visa": "Passengers are responsible for arranging their own visas."
+  },
+  "United": {
+    "baggage": {
+      "checked": "2 x 23kg included",
+      "cabin": "10kg cabin bag"
+    },
+    "cancellation": "non-refundable",
+    "change_fee": "150 AUD change fee",
+    "visa": "Passengers are responsible for arranging their own visas."
+  }
+}
